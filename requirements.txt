@@ -1,0 +1,8 @@
+PyQt5==5.15.9
+selenium==4.15.2
+requests==2.31.0
+python-dotenv==1.0.0
+Pillow==10.1.0
+dashscope>=1.14.0
+qianfan>=0.3.0
+

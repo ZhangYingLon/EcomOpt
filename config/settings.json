@@ -1,0 +1,31 @@
+{
+    "ai": {
+        "provider": "dashscope",
+        "max_tokens": 2000,
+        "dashscope": {
+            "api_key": "sk-f70cb499a1a840d49751f6baca15b5bd",
+            "model": "qwen-turbo"
+        },
+        "qianfan": {
+            "api_key": "bce-v3/ALTAK-A0EcujB2pt5BdMCaxs9ei/416f6578073d2f1bf71bb3e01a35c4fa84beaae4",
+            "model": "ernie-4.5-turbo-128k"
+        }
+    },
+    "selenium": {
+        "headless": false,
+        "wait_timeout": 10,
+        "implicit_wait": 5
+    },
+    "account": {
+        "auto_refresh": true,
+        "refresh_interval": 3600
+    },
+    "platforms": {
+        "baijiahao": {
+            "login_url": "https://baijiahao.baidu.com/"
+        },
+        "xiaohongshu": {
+            "login_url": "https://creator.xiaohongshu.com/"
+        }
+    }
+}
