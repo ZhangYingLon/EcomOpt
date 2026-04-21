@@ -55,6 +55,10 @@ temp/
 .env.local
 .env.*.local
 
+# Settings files (contains API keys)
+config/settings.json
+!config/settings.example.json
+
 # Test files
 test_image.jpg
 test_image_recognition.py
