@@ -59,9 +59,8 @@ temp/
 test_image.jpg
 test_image_recognition.py
 
-# HTML test files
-*.htm
-*.html
+# Root directory test HTML files
+百家号.htm
 
 # OS
 Thumbs.db
@@ -70,9 +69,5 @@ desktop.ini
 # AI-social-xhs_ai_publisher submodule (if it's a separate project)
 AI-social-xhs_ai_publisher/
 
-# Other
-1.jpg
-2.jpg
-3.jpg
-4.jpg
-5.jpg
+# Root directory test images
+[1-5].jpg
